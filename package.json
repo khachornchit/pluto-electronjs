@@ -1,0 +1,15 @@
+{
+  "name": "pluto-electronjs",
+  "version": "1.0.0",
+  "description": "Example of electron development by Pluto Solutions",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pluto Solutions",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.4"
+  }
+}
