@@ -2,7 +2,7 @@
 
 This is example of desktop application developing by using ElectronJS.
 
-**Note**
+**Note :**
 This repositoy consist of some files of the project only. The completed project is kept in our private git.
 
 ## Pluto Development
